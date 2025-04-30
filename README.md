@@ -9,3 +9,6 @@ This repository contains the following assets:
 | [perform_tests.ipynb](perform_tests.ipynb)         | A JupyterNotebook file that carries out the FUJI tests and saves the results           |
 | [visualise_results.ipynb](visualise_results.ipynb) | A JupyterNotebook file where the data is visualised (graphs, statistical properties)   |
 | [FUJI_tests_report.ipynb](FUJI_tests_report.ipynb) | A JupyterNotebook file whith the detailed reports about certain FUJI tests             |
+
+# How to cite this material
+Please use this DOI to cite this repository: 10.5281/zenodo.15309054
